@@ -1,24 +1,12 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+### A slot machine with betting and scoring
 
-### Goal: Build a Simple Slot Machine
+[Link to project](https://astronomy-photo-of-the-day.netlify.app/)
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+![astronomy-photo-of-the-day netlify app_ (1)](https://user-images.githubusercontent.com/111996055/197098227-ae30109d-36cd-463f-b19a-0a2ac838452b.png)
 
-### How to submit your code for review:
+## How It's Made:
+HTML, CSS, JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Lessons Learned:
+The design and layout was extremely challenging. I feel much experienced in using flexbox in CSS after this. 
