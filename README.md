@@ -1,3 +1,4 @@
+#Slot Machine
 ### A slot machine with betting and scoring
 
 [Link to project](https://astronomy-photo-of-the-day.netlify.app/)
